@@ -1,4 +1,4 @@
-# AIC AI Leakage Demo
+# AIC Demo
 
 Interactive demonstration showing how AI tools are affecting insurance lead generation.
 
